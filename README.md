@@ -1,4 +1,4 @@
-# wiSwitch
+# wifiSwitch
 
 ## MQTT wifi wall switch using ESP8266-01
 
