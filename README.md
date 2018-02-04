@@ -11,6 +11,8 @@ Switch is based on wifi board [ESP8266-01](https://en.wikipedia.org/wiki/ESP8266
 
 Code was implemented in Arduino. Source files can be found in repository.
 
+Switch can be controlled by MQTT or by **touch button** placed on the board.
+
 **This project requires 220V mains to operate properly**
 
 **If you are not familiar with mains DO NOT TRY TO INSTALL THIS SWITCH**
