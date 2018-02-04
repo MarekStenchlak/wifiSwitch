@@ -39,9 +39,9 @@ Exploded view looks like this:
 *TODO*
 
 ### MQTT broker
-To use this switch you need to have an MQTT broker like [Mosquitto]:(https://mosquitto.org/) installed on a server or RaspeberryPi in your local wifi network.
+To use this switch you need to have an MQTT broker like [Mosquitto](https://mosquitto.org/) installed on a server or RaspeberryPi in your local wifi network.
 
-To install Mosquitto, please follow this guide: [Setup mosquitto MQTT broker]:(https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04)
+To install Mosquitto, please follow this guide: [Setup mosquitto MQTT broker](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04)
 
 or this guie for RaspberryPi: [Setup mosquitto MQTT broker on RPi]:(http://www.instructables.com/id/Installing-MQTT-BrokerMosquitto-on-Raspberry-Pi/)
 
