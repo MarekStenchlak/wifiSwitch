@@ -48,7 +48,12 @@ Exploded view looks like this:
 ## Setup
 
 ### Wiring
-*TODO*
+** Be sure you know what you are doinng, never touch any life wires, be sure to turn off electricity when dealing with mains**
+
+If you do not have ***Neutral** wire in the wall box, you will have to wire new cable and connect it to **Neutral.**
+
+![wiring diagram](/images/wiring.png?raw=true "wiring diagram")
+
 
 ### MQTT broker
 To use this switch you need to have an MQTT broker like [Mosquitto](https://mosquitto.org/) installed on a server or RaspeberryPi in your local wifi network.
