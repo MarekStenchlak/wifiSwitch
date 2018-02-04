@@ -10,6 +10,7 @@ Board can be ordered on OSH park:
 
 ### Schematics
 Schematics for this project was designed using Eagle.
+
 Eagle project can be found in repository.
 
 ![Eagle Scheme](/images/wifiSwitch_scheme.png?raw=true "Schematics")
@@ -29,6 +30,7 @@ Model consists of 3 parts: box, frame and button.
 3D model files and exported STL files can be found in repository.
 
 Exploded view looks like this:
+
 ![3D exploded view](/images/èxploded.png?raw=true "3D exploded")
 
 ## Setup
@@ -53,6 +55,7 @@ When the switch is connected to mains, it tries to connect to configured Wifi ne
 #### Configuration mode
   When in configuration mode, the wsitch creates its own wifi network.
   This network`s SSID consists of string "ESP_HOME" followed by its MAC address 
+  
     e.g: ESP_HOME A1:B2:3A:4E:2D:E2
     
   This network has no Password.
