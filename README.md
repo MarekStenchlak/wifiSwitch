@@ -39,7 +39,7 @@ Eagle project can be found in repository.
 ### 3D model
 3D model was designed in Sketch-Up and exported to STL files.
 
-Model consists of 3 parts: box, frame and button.
+Model consists of 3 parts: **box, frame and button cover.**
 
 3D model files and exported STL files can be found in repository.
 
