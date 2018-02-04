@@ -84,3 +84,13 @@ When the switch is connected to mains, it tries to connect to configured Wifi ne
     
 ## Final Product
 
+### Assembled board
+![Assembled board 1](/images/esp_up.jpg?raw=true "Assembled Board1")
+
+![Assembled board 2](/images/esp_down.jpg?raw=true "Assembled Board2")
+
+### Assembled switch
+
+![Assembled switch 1](/images/upside.jpg?raw=true "Assembled switch")
+
+![Assembled switch 2](/images/final.jpg?raw=true "Assembled switch")
