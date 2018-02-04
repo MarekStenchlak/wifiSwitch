@@ -3,15 +3,13 @@
 ## MQTT wifi wall switch using ESP8266-01
 
 ### Description
-Switch can be controlled via MQTT or touch button.
+Switch can be controlled via **MQTT** or **touch button.**
 
 it is well suited for 68mm Europe wall boxes.
 
 Switch is based on wifi board [ESP8266-01](https://en.wikipedia.org/wiki/ESP8266).
 
-Code was implemented in Arduino. Source files can be found in repository.
-
-Switch can be controlled by MQTT or by **touch button** placed on the board.
+Code is implemented in Arduino. Source files can be found in repository.
 
 **This project requires 220V mains to operate properly**
 
