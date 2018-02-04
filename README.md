@@ -7,6 +7,9 @@ Switch can be controlled via MQTT or touch button.
 
 it is well suited for 68mm Europe wall boxes.
 
+Switch is based on wifi board [ESP8266-01](https://en.wikipedia.org/wiki/ESP8266).
+
+Code was implemented in Arduino. Source files can be found in repository.
 
 **This project requires 220V mains to operate properly**
 
