@@ -65,7 +65,7 @@ This switch is using [WifiManager](https://github.com/tzapu/WiFiManager) project
 When the switch is connected to mains, it tries to connect to configured Wifi network and MQTT broker. If it is not able to connect or is not configured, it enters the configuration mode.
 
 #### Configuration mode
-  When in configuration mode, the wsitch creates its own wifi network.
+  When in configuration mode, the switch creates its own wifi network.
   This network`s SSID consists of string "ESP_HOME" followed by its MAC address 
   
   e.g: ESP_HOME A1:B2:3A:4E:2D:E2
