@@ -43,12 +43,12 @@ To use this switch you need to have an MQTT broker like [Mosquitto](https://mosq
 
 To install Mosquitto, please follow this guide: [Setup mosquitto MQTT broker](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-16-04)
 
-or this guie for RaspberryPi: [Setup mosquitto MQTT broker on RPi]:(http://www.instructables.com/id/Installing-MQTT-BrokerMosquitto-on-Raspberry-Pi/)
+or this guie for RaspberryPi: [Setup mosquitto MQTT broker on RPi](http://www.instructables.com/id/Installing-MQTT-BrokerMosquitto-on-Raspberry-Pi/)
 
 The bast practise is to set static IP address to the MQTT broker server or raspberryPi running mosquitto.
 
 ### WifiSwitch settings
-This switch is using [WifiManager]:(https://github.com/tzapu/WiFiManager) project to set-up switch parameters.
+This switch is using [WifiManager](https://github.com/tzapu/WiFiManager) project to set-up switch parameters.
 
 When the switch is connected to mains, it tries to connect to configured Wifi network and MQTT broker. If it is not able to connect or is not configured, it enters the configuration mode.
 
