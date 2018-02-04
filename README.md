@@ -50,7 +50,7 @@ Exploded view looks like this:
 ### Wiring
 **Be sure you know what you are doing! Never touch any live wires ! Be sure to turn off electricity when dealing with mains!**
 
-If you do not have **Neutral** wire in the wall box, you will have to wire new cable and connect it to **Neutral.**
+If you do not have **Neutral** wire in the wall box (which you probably don`t), you will have to wire new cable and connect it to **Neutral.**
 
 ![wiring diagram](/images/wiring.png?raw=true "wiring diagram")
 
