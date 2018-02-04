@@ -77,13 +77,13 @@ When the switch is connected to mains, it tries to connect to configured Wifi ne
   **192.168.4.1**
   
   Then configure:
-    wifi SSID
-    wifi Password
-    MQTT broker IP (or DNS name)
-    MQTT broker port
-    MQTT username
-    MQTT password
-    MQTT topic
+      wifi SSID
+      wifi Password
+      MQTT broker IP (or DNS name)
+      MQTT broker port
+      MQTT username
+      MQTT password
+      MQTT topic
     
 ## Final Product
 
