@@ -5,6 +5,15 @@
 ### Description
 Switch can be controlled via MQTT or touch button.
 
+it is well suited for 68mm Europe wall boxes.
+
+
+**This project requires 220V mains to operate properly**
+
+**If you are not familiar with mains DO NOT TRY TO INSTALL THIS SWITCH**
+
+**Proceed only if you know what you are doing !!!**
+
 Board can be ordered on OSH park:
   https://oshpark.com/shared_projects/9JxnbNwu
 
