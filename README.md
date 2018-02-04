@@ -29,7 +29,7 @@ Model consists of 3 parts: box, frame and button.
 3D model files and exported STL files can be found in repository.
 
 Exploded view looks like this:
-![3D exploded view](/images/exploded.png?raw=true "3D exploded")
+![3D exploded view](/images/èxploded.png?raw=true "3D exploded")
 
 ## Setup
 
