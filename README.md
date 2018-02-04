@@ -77,6 +77,7 @@ When the switch is connected to mains, it tries to connect to configured Wifi ne
   **192.168.4.1**
   
   Then configure:
+  
   wifi SSID
   
   wifi Password
