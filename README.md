@@ -94,6 +94,8 @@ When the switch is connected to mains, it tries to connect to configured Wifi ne
 
 ### Assembled switch
 
-![Assembled switch 1](/images/upside.jpg?raw=true "Assembled switch")
+![Assembled switch 1](/images/upside.jpg?raw=true "Assembled switch 1")
 
-![Assembled switch 2](/images/final.jpg?raw=true "Assembled switch")
+![Assembled switch 2](/images/assembled.jpg?raw=true "Assembled switch 2")
+
+![Assembled switch 3](/images/final.jpg?raw=true "Assembled switch 3")
